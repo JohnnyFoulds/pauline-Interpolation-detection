@@ -1,4 +1,4 @@
-# Detecting Pauline Interpolations Using Cross-Translation LLM Consensus: A Data-Driven Approach to Textual Criticism* 
+# Detecting Pauline Interpolations Using Cross-Translation LLM Consensus: A Data-Driven Approach to Textual Criticism 
 
 ## Thesis Synopsis
 
