@@ -1,0 +1,267 @@
+{
+    "1": {
+      "BookName": "Genesis",
+      "BookAbbreviation": "Gen"
+    },
+    "2": {
+      "BookName": "Exodus",
+      "BookAbbreviation": "Exod"
+    },
+    "3": {
+      "BookName": "Leviticus",
+      "BookAbbreviation": "Lev"
+    },
+    "4": {
+      "BookName": "Numbers",
+      "BookAbbreviation": "Num"
+    },
+    "5": {
+      "BookName": "Deuteronomy",
+      "BookAbbreviation": "Deut"
+    },
+    "6": {
+      "BookName": "Joshua",
+      "BookAbbreviation": "Josh"
+    },
+    "7": {
+      "BookName": "Judges",
+      "BookAbbreviation": "Judg"
+    },
+    "8": {
+      "BookName": "Ruth",
+      "BookAbbreviation": "Ruth"
+    },
+    "9": {
+      "BookName": "1 Samuel",
+      "BookAbbreviation": "1 Sam"
+    },
+    "10": {
+      "BookName": "2 Samuel",
+      "BookAbbreviation": "2 Sam"
+    },
+    "11": {
+      "BookName": "1 Kings",
+      "BookAbbreviation": "1 Kgs"
+    },
+    "12": {
+      "BookName": "2 Kings",
+      "BookAbbreviation": "2 Kgs"
+    },
+    "13": {
+      "BookName": "1 Chronicles",
+      "BookAbbreviation": "1 Chr"
+    },
+    "14": {
+      "BookName": "2 Chronicles",
+      "BookAbbreviation": "2 Chr"
+    },
+    "15": {
+      "BookName": "Ezra",
+      "BookAbbreviation": "Ezra"
+    },
+    "16": {
+      "BookName": "Nehemiah",
+      "BookAbbreviation": "Neh"
+    },
+    "17": {
+      "BookName": "Esther",
+      "BookAbbreviation": "Esth"
+    },
+    "18": {
+      "BookName": "Job",
+      "BookAbbreviation": "Job"
+    },
+    "19": {
+      "BookName": "Psalms",
+      "BookAbbreviation": "Ps"
+    },
+    "20": {
+      "BookName": "Proverbs",
+      "BookAbbreviation": "Prov"
+    },
+    "21": {
+      "BookName": "Ecclesiastes",
+      "BookAbbreviation": "Eccl"
+    },
+    "22": {
+      "BookName": "Song of Solomon",
+      "BookAbbreviation": "Song"
+    },
+    "23": {
+      "BookName": "Isaiah",
+      "BookAbbreviation": "Isa"
+    },
+    "24": {
+      "BookName": "Jeremiah",
+      "BookAbbreviation": "Jer"
+    },
+    "25": {
+      "BookName": "Lamentations",
+      "BookAbbreviation": "Lam"
+    },
+    "26": {
+      "BookName": "Ezekiel",
+      "BookAbbreviation": "Ezek"
+    },
+    "27": {
+      "BookName": "Daniel",
+      "BookAbbreviation": "Dan"
+    },
+    "28": {
+      "BookName": "Hosea",
+      "BookAbbreviation": "Hos"
+    },
+    "29": {
+      "BookName": "Joel",
+      "BookAbbreviation": "Joel"
+    },
+    "30": {
+      "BookName": "Amos",
+      "BookAbbreviation": "Amos"
+    },
+    "31": {
+      "BookName": "Obadiah",
+      "BookAbbreviation": "Obad"
+    },
+    "32": {
+      "BookName": "Jonah",
+      "BookAbbreviation": "Jon"
+    },
+    "33": {
+      "BookName": "Micah",
+      "BookAbbreviation": "Mic"
+    },
+    "34": {
+      "BookName": "Nahum",
+      "BookAbbreviation": "Nah"
+    },
+    "35": {
+      "BookName": "Habakkuk",
+      "BookAbbreviation": "Hab"
+    },
+    "36": {
+      "BookName": "Zephaniah",
+      "BookAbbreviation": "Zeph"
+    },
+    "37": {
+      "BookName": "Haggai",
+      "BookAbbreviation": "Hag"
+    },
+    "38": {
+      "BookName": "Zechariah",
+      "BookAbbreviation": "Zech"
+    },
+    "39": {
+      "BookName": "Malachi",
+      "BookAbbreviation": "Mal"
+    },
+    "40": {
+      "BookName": "Matthew",
+      "BookAbbreviation": "Matt"
+    },
+    "41": {
+      "BookName": "Mark",
+      "BookAbbreviation": "Mark"
+    },
+    "42": {
+      "BookName": "Luke",
+      "BookAbbreviation": "Luke"
+    },
+    "43": {
+      "BookName": "John",
+      "BookAbbreviation": "John"
+    },
+    "44": {
+      "BookName": "Acts",
+      "BookAbbreviation": "Acts"
+    },
+    "45": {
+      "BookName": "Romans",
+      "BookAbbreviation": "Rom"
+    },
+    "46": {
+      "BookName": "1 Corinthians",
+      "BookAbbreviation": "1 Cor"
+    },
+    "47": {
+      "BookName": "2 Corinthians",
+      "BookAbbreviation": "2 Cor"
+    },
+    "48": {
+      "BookName": "Galatians",
+      "BookAbbreviation": "Gal"
+    },
+    "49": {
+      "BookName": "Ephesians",
+      "BookAbbreviation": "Eph"
+    },
+    "50": {
+      "BookName": "Philippians",
+      "BookAbbreviation": "Phil"
+    },
+    "51": {
+      "BookName": "Colossians",
+      "BookAbbreviation": "Col"
+    },
+    "52": {
+      "BookName": "1 Thessalonians",
+      "BookAbbreviation": "1 Thess"
+    },
+    "53": {
+      "BookName": "2 Thessalonians",
+      "BookAbbreviation": "2 Thess"
+    },
+    "54": {
+      "BookName": "1 Timothy",
+      "BookAbbreviation": "1 Tim"
+    },
+    "55": {
+      "BookName": "2 Timothy",
+      "BookAbbreviation": "2 Tim"
+    },
+    "56": {
+      "BookName": "Titus",
+      "BookAbbreviation": "Titus"
+    },
+    "57": {
+      "BookName": "Philemon",
+      "BookAbbreviation": "Phlm"
+    },
+    "58": {
+      "BookName": "Hebrews",
+      "BookAbbreviation": "Heb"
+    },
+    "59": {
+      "BookName": "James",
+      "BookAbbreviation": "Jas"
+    },
+    "60": {
+      "BookName": "1 Peter",
+      "BookAbbreviation": "1 Pet"
+    },
+    "61": {
+      "BookName": "2 Peter",
+      "BookAbbreviation": "2 Pet"
+    },
+    "62": {
+      "BookName": "1 John",
+      "BookAbbreviation": "1 Jn"
+    },
+    "63": {
+      "BookName": "2 John",
+      "BookAbbreviation": "2 Jn"
+    },
+    "64": {
+      "BookName": "3 John",
+      "BookAbbreviation": "3 Jn"
+    },
+    "65": {
+      "BookName": "Jude",
+      "BookAbbreviation": "Jude"
+    },
+    "66": {
+      "BookName": "Revelation",
+      "BookAbbreviation": "Rev"
+    }
+  }
+  
