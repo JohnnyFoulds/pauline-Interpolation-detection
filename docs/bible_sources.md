@@ -13,3 +13,5 @@ repository: [lguenth/mdbible](https://github.com/lguenth/mdbible)
 ## https://github.com/ericmjl/bibles
 
 ## https://github.com/tahmmee/ftsbible
+
+## https://github.com/jadenzaleski/BibleTranslations
