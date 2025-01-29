@@ -10,6 +10,8 @@ source: [ESV](https://github.com/javascripture/javascripture/blob/gh-pages/bible
 
 repository: [lguenth/mdbible](https://github.com/lguenth/mdbible)
 
-## 
+## https://github.com/ericmjl/bibles
 
-https://github.com/ericmjl/bibles
+## https://github.com/tahmmee/ftsbible
+
+## https://github.com/jadenzaleski/BibleTranslations
